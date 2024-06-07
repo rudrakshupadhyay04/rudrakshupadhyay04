@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rudraksh Upadhyay</h1>
 <h3 align="center">A passionate Web Developer & Machine Learning Enthusiast from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rudrakshupadhyay04" alt="rudrakshupadhyay04" /></a> </p>
-
 - 🌱 I’m currently learning **React and Next.js**
 
 - 📫 How to reach me **rudrakshaupadhyay12345@gmail.com**
